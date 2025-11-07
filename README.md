@@ -1,4 +1,4 @@
-# 🦸 Classificador de Nível de Herói
+# Classificador de Nível de Herói
 
 ![License](https://img.shields.io/badge/License-MIT-8A2BE2)
 ![status](https://img.shields.io/badge/status-conclu%C3%ADdo-28a745)
