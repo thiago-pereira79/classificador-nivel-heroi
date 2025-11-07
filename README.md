@@ -50,8 +50,8 @@ O app classifica o **nível do herói** com base no XP e salva tudo em um arquiv
 ### Exemplo de saída
 
 Lista de Heróis:  
-1. Viúva Negra — XP: 6800 — Nível: Ouro  
-2. Hulk — XP: 5000 — Nível: Prata  
+1. Viúva Negra - XP: 6800 - Nível: Ouro  
+2. Hulk - XP: 5000 - Nível: Prata  
 
 ---
 
